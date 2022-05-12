@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Amirali
-- 👀 I’m interested in writ and learn new cods
-- 🌱 I’m currently working on Parsi Ninja and Madgames
+- 👀 I’m interested in writ and learn new cods language
+- 🍀 Currently I'm Learning: Javascript
+- 🌱 I’m currently working on my projects
 - 📍 I'm currently living in Tehran , Iran
 - 📫 To contact me: Instagram: (@amirali__shah) , Discord: (Amirali Shah#9999)
 
