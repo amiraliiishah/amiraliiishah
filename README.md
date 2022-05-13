@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Amirali
-- 👀 I’m interested in writ and learn new cods language
+- 👀 I’m interested in write and learn new cods language
 - 🍀 Currently I'm Learning: Javascript
+- 🌿 Languages I know: html, css, python and discord.js
 - 🌱 I’m currently working on my projects
 - 📍 I'm currently living in Tehran , Iran
 - 📫 To contact me: Instagram: (@amirali__shah) , Discord: (Amirali Shah#9999)
