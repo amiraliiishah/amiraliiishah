@@ -1,0 +1,13 @@
+const express = require("express")
+const app = express()
+
+app.get("/", (req,res) => {
+  res.send("Hello, This Is The Page Of Bigh Family Bot!")
+})
+
+app.listen(3000, () => {
+  console.log("Project Is Running!")
+})
+
+const Discord = require("discord.js");
+const client = new Discord.Client({intents: ["GUILDS", "GUILD_MESSAGES"]});
